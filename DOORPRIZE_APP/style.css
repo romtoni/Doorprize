@@ -1,0 +1,121 @@
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.font_title{
+	font-size: 25px;
+	color : #000;
+	font-weight: bold;
+}
+
+.font_message{
+	font-size: 30px;
+	color : #FFF;
+	font-weight: bold;
+}
+
+.font_list{
+	font-size: 20px;
+	color : #FFF;
+	font-weight: bold;
+}
+
+
+a:hover {
+ cursor:pointer;
+}
+
+#footer {
+   position:absolute;
+   bottom:20;
+   width:100%;
+}
+
+.kolom_merah{
+	background-color: #FF0000;
+}
+
+.kolom_putih{
+	background-color: white;
+
+}
+
+select{
+	font-size: 20px;
+
+}
+input[type="submit"], input[type="button"]{
+	font-size: 20px;
+
+}
+
+/*--------- DEFAULT ---------*/
+
+.bg_index{
+  /* The image used */
+  background-image: url("img/default_tmp/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img.btnstart_css{
+	background-image: url("img/default_tmp/start.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+img.btnstop_css{
+	background-image: url("img/default_tmp/stop.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+/*--------- sample ---------*/
+
+img.sample_btnstart_css{
+	background-image: url("img/tmp/sample/start.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+img.sample_btnstop_css{
+	background-image: url("img/tmp/sample/stop.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+.bg_sample_index{
+  /* The image used */
+  background-image: url("img/tmp/sample/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg_sample_aprize{
+  /* The image used */
+  background-image: url("img/tmp/sample/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

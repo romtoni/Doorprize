@@ -1,0 +1,41 @@
+/*--------- sample ---------*/
+
+img.sample_btnstart_css{
+	background-image: url("img/tmp/sample/start.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+img.sample_btnstop_css{
+	background-image: url("img/tmp/sample/stop.png");
+	width: 500px;
+	height: 500px;
+	border-radius: 50%;
+}
+
+.bg_sample_index{
+  /* The image used */
+  background-image: url("img/tmp/sample/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg_sample_aprize{
+  /* The image used */
+  background-image: url("img/tmp/sample/background.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

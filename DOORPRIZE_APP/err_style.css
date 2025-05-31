@@ -1,0 +1,55 @@
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
+
+.bg_underconstruction{
+	/* The image used */
+	background-image: url("img/default_tmp/page-errors_underconstruction.jpg");
+
+	/* Full height */
+	height: 100%;
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg_404{
+	/* The image used */
+	background-image: url("img/default_tmp/page-errors_404.jpg");
+
+	/* Full height */
+	height: 100%;
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg_500{
+	/* The image used */
+	background-image: url("img/default_tmp/page-errors_500.jpg");
+
+	/* Full height */
+	height: 100%;
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bg_400{
+	/* The image used */
+	background-image: url("img/default_tmp/page-errors_400.jpg");
+
+	/* Full height */
+	height: 100%;
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
