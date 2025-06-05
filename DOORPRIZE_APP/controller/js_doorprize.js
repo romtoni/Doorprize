@@ -358,7 +358,7 @@ $(document).ready(function(e)
 	$("#btnstop").css("display","none");
 	$("#btnstart").css("display","none");
 	
-	kode_home = $('#kode_home').val();
+	kode_home = $('#home').val();
 	$('#list_doorprize_menu').css("display","none");
 
 	alert ("SELAMAT DATANG");

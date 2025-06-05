@@ -10,7 +10,6 @@
 <input type="hidden" id="id_hadiah">
 <input type="hidden" id="total_pemenang">
 <input type="hidden" id="kode_halaman_sebelumnya">
-<input type="hidden" id="kode_home">
 
 <input type="hidden" id="tahun" value="<?=$_GET["tahun"]?>">
 <input type="hidden" id="id_event"  value="<?=$_GET["id_event"]?>">
